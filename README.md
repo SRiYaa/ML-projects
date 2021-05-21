@@ -31,10 +31,10 @@ The datasets for all these codes are available in the folder.
   
 Other features used:
 
-1 one hot encoding
-2 dummy encoding
-3 tf_idf vectorizer
-4 count vectorizer
+1. one hot encoding
+2. dummy encoding
+3. tf_idf vectorizer
+4. count vectorizer
 
 Issues in Datasets :
 1. Not all data are numeric
