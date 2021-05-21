@@ -23,6 +23,7 @@ The datasets for all these codes are available in the folder.
 5. Tweets
   - predicts author
   - feature extraction - CountVectorizer
+  - naive_bayes - MultinomialNB
   
 6. Country Data
   - predicts mortality
@@ -34,3 +35,9 @@ Other features used:
 2 dummy encoding
 3 tf_idf vectorizer
 4 count vectorizer
+
+Issues in Datasets :
+1. Not all data are numeric
+2. Data has null values
+
+These codes have used both supervised and unsupervised learning.
